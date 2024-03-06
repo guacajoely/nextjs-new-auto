@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 800 800"> 
+
+    <circle id="outercir" cx="398"  cy="398"  r="320" fill="white"></circle>
+
+    <circle id="outercir" cx="400"  cy="400"  r="300" fill="black"></circle>
+
+    <circle id="innercir" cx="400"  cy="400"  r="225" fill="white" ></circle>
+
+    <rect id="arms" x="300" y="350" width="200" height="300" fill="black"></rect>
+
+    <rect id="hands" x="225" y="350" width="350" height="75" fill="black"></rect>
+
+    <rect id="break" x="375" y="95" width="50" height="610" fill="white"></rect>
+
+</svg>

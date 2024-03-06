@@ -1,7 +1,7 @@
 .main {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
@@ -81,7 +81,7 @@
   padding: 4rem 0;
 }
 
-.center::before {
+/* .center::before {
   background: var(--secondary-glow);
   border-radius: 50%;
   width: 480px;
@@ -94,7 +94,7 @@
   width: 240px;
   height: 180px;
   z-index: -1;
-}
+} */
 
 .center::before,
 .center::after {
@@ -185,7 +185,7 @@
       rgba(var(--callout-rgb), 0.5)
     );
     background-clip: padding-box;
-    backdrop-filter: blur(24px);
+    /* backdrop-filter: blur(24px); */
   }
 
   .description div {
